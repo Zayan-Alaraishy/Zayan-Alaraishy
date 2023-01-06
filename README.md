@@ -2,7 +2,7 @@
 ### :wave: Hi, I'm Zayan
 
 <div id="header"style="width:100%;height:0;padding-bottom:75%;position:relative;">
-<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"  width="40%" height="40%" style="position:absolute"/>
+<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"  width="45%" height="45%" style="position:absolute"/>
 </div>
 
 ---
