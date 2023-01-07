@@ -27,6 +27,6 @@ A junior full-stack web developer who is passionate about the field and constant
 
 ### 📫 Contact me
 
-<a href="https://www.linkedin.com/in/zayan-al-araishy-81a11425b/">
+<a href="https://www.linkedin.com/in/zayan-al-araishy-81a11425b">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
