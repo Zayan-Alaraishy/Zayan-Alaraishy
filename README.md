@@ -15,7 +15,7 @@ A junior full-stack web developer who is passionate about the field and constant
 
 ### 🧰 Toolbox
 
-![My Skills](https://skillicons.dev/icons?i=html,css,figma,tailwind,js,react,nodejs,express,ts,mongo,postgresql,py,java,c,git,github,vscode,discord)
+![My Skills](https://skillicons.dev/icons?i=html,css,figma,tailwind,js,react,nodejs,express,ts,mongo,postgresql,py,java,c,git,github,vscode)
 
 ---
 
