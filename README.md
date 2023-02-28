@@ -19,12 +19,6 @@ A junior full-stack web developer who is passionate about the field and constant
 
 ---
 
-### &#x1f4c8; My GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Zayan-Alaraishy&hide_border=true&theme=jolly)](https://git.io/streak-stats)
-
----
-
 ### 📫 Contact me
 
 <a href="https://www.linkedin.com/in/zayan-al-araishy-81a11425b">
